@@ -9,5 +9,6 @@ repository = "https://github.com/oxiterm/oxiterm"
 license = "MIT OR Apache-2.0"
 keywords = ["terminal", "emulator", "cli", "cross-platform", "oxiterm"]
 categories = ["command-line-utilities", "development-tools"]
+homepage = "https://oxiterm.com"
 
 [dependencies]
