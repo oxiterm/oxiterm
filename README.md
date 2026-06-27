@@ -6,3 +6,4 @@ Oxiterm is a blazing-fast, memory-safe, cross-platform terminal emulator built f
 
 This project is currently under active initial development. Check back soon for deployment releases!
 
+https://oxiterm.com
